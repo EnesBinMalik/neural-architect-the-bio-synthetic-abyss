@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Neural Architect">
+<style>.t{font-family:'Segoe UI',system-ui,sans-serif}.ttl{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:-1.5px}.m{font-family:'Consolas',monospace}.cap{font-family:'Segoe UI',sans-serif;font-weight:700;letter-spacing:4px}.ser{font-family:Georgia,serif;font-style:italic}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070C"/><stop offset="0.6" stop-color="#080D15"/><stop offset="1" stop-color="#0A1220"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<radialGradient id="gl" cx="0.78" cy="0.24" r="0.72"><stop offset="0" stop-color="#34D399" stop-opacity="0.20"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient>
+<radialGradient id="gl2" cx="0.12" cy="0.9" r="0.5"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.10"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<rect width="1280" height="640" fill="url(#gl)"/>
+<rect width="1280" height="640" fill="url(#gl2)"/>
+<path d="M0 90 C 281.6 44, 537.6 136, 793.6 90 S 1152.0 60, 1280 90" fill="none" stroke="#34D399" stroke-opacity="0.10" stroke-width="1.6"/>
+<path d="M0 132 C 281.6 86, 537.6 178, 793.6 132 S 1152.0 102, 1280 132" fill="none" stroke="#34D399" stroke-opacity="0.10" stroke-width="1.6"/>
+<path d="M0 174 C 281.6 128, 537.6 220, 793.6 174 S 1152.0 144, 1280 174" fill="none" stroke="#34D399" stroke-opacity="0.10" stroke-width="1.6"/>
+<path d="M0 216 C 281.6 170, 537.6 262, 793.6 216 S 1152.0 186, 1280 216" fill="none" stroke="#34D399" stroke-opacity="0.10" stroke-width="1.6"/>
+<path d="M0 258 C 281.6 212, 537.6 304, 793.6 258 S 1152.0 228, 1280 258" fill="none" stroke="#34D399" stroke-opacity="0.10" stroke-width="1.6"/>
+<path d="M0 300 C 281.6 254, 537.6 346, 793.6 300 S 1152.0 270, 1280 300" fill="none" stroke="#34D399" stroke-opacity="0.10" stroke-width="1.6"/>
+<rect x="700" y="500" width="8" height="20" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="722" y="463" width="8" height="57" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="744" y="426" width="8" height="94" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="766" y="499" width="8" height="21" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="788" y="462" width="8" height="58" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="810" y="425" width="8" height="95" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="832" y="498" width="8" height="22" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="854" y="461" width="8" height="59" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="876" y="424" width="8" height="96" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="898" y="497" width="8" height="23" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="920" y="460" width="8" height="60" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="942" y="423" width="8" height="97" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="964" y="496" width="8" height="24" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="986" y="459" width="8" height="61" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1008" y="422" width="8" height="98" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1030" y="495" width="8" height="25" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1052" y="458" width="8" height="62" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1074" y="421" width="8" height="99" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1096" y="494" width="8" height="26" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1118" y="457" width="8" height="63" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1140" y="420" width="8" height="100" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1162" y="493" width="8" height="27" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1184" y="456" width="8" height="64" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1206" y="419" width="8" height="101" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1228" y="492" width="8" height="28" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="1250" y="455" width="8" height="65" rx="4" fill="#22D3EE" fill-opacity="0.09"/>
+<rect x="0" y="0" width="1280" height="4" fill="url(#ac)"/>
+<rect x="56" y="42" width="132" height="26" rx="13" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.5"/>
+<text x="122" y="59" text-anchor="middle" class="cap" font-size="9.5" fill="#34D399">GÖZ BEBEĞİ</text>
+<text x="204" y="59" class="cap" font-size="10.5" fill="#22D3EE">BİYO-MEKANİK · SİMÜLASYON</text>
+<text x="1224" y="59" text-anchor="end" class="m" font-size="11" fill="#48566B">A2 · Enes Öztürk</text>
+<line x1="56" y1="86" x2="1224" y2="86" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="54" y="204" class="ttl" font-size="70" fill="#F5F8FC">Neural Architect</text>
+<rect x="58" y="232" width="96" height="3" rx="1.5" fill="url(#ac)"/>
+<text x="58" y="276" class="ser" font-size="19" fill="#9FB2CA">The Bio-Synthetic Abyss · Navier-Stokes akışkan simülasyonu</text>
+<rect x="58" y="325" width="14" height="2.5" rx="1.25" fill="#34D399"/>
+<text x="84" y="336" class="t" font-size="14.5" fill="#A9BACE">Gerçek zamanlı sıvı ve sinaptik ağ kurgulama</text>
+<rect x="58" y="367" width="14" height="2.5" rx="1.25" fill="#34D399"/>
+<text x="84" y="378" class="t" font-size="14.5" fill="#A9BACE">Biyo-mekanik mühendislik konsolu ve vizör HUD</text>
+<rect x="58" y="409" width="14" height="2.5" rx="1.25" fill="#34D399"/>
+<text x="84" y="420" class="t" font-size="14.5" fill="#A9BACE">Kriz görevleri ve CUDA mimari paneli</text>
+<rect x="690" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="690" y="316" width="162" height="3" rx="1.5" fill="#34D399" fill-opacity="0.75"/>
+<text x="708" y="360" class="t" font-size="24" font-weight="700" fill="#34D399">NS</text>
+<text x="708" y="386" class="m" font-size="10.5" fill="#7E8FA8">çözücü</text>
+<rect x="868" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="868" y="316" width="162" height="3" rx="1.5" fill="#22D3EE" fill-opacity="0.75"/>
+<text x="886" y="360" class="t" font-size="24" font-weight="700" fill="#22D3EE">3D</text>
+<text x="886" y="386" class="m" font-size="10.5" fill="#7E8FA8">sahne</text>
+<rect x="1046" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="1046" y="316" width="162" height="3" rx="1.5" fill="#22D3EE" fill-opacity="0.75"/>
+<text x="1064" y="360" class="t" font-size="24" font-weight="700" fill="#22D3EE">∞</text>
+<text x="1064" y="386" class="m" font-size="10.5" fill="#7E8FA8">sinaptik</text>
+<line x1="56" y1="536" x2="1224" y2="536" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="56" y="574" class="t" font-size="19" font-weight="600" fill="#EDF3FA">Enes Öztürk</text>
+<text x="56" y="600" class="m" font-size="11.5" fill="#5A6B88">github.com/EnesBinMalik · MIT Lisansı</text>
+<text x="1224" y="574" text-anchor="end" class="m" font-size="10.5" fill="#22D3EE">© 2026 Enes Öztürk — tüm hakları saklıdır</text>
+<text x="1224" y="600" text-anchor="end" class="m" font-size="10.5" fill="#3F4C60">tasarım &amp; geliştirme · Enes Öztürk</text>
+</svg>

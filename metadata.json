@@ -1,0 +1,6 @@
+{
+  "name": "Neural Architect: The Bio-Synthetic Abyss",
+  "description": "Enes Öztürk imzalı 3D biyo-mekanik mühendislik, gerçek zamanlı Navier-Stokes akışkan simülasyonu ve sinaptik ağ kurgulama başyapıtı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
